@@ -50,7 +50,7 @@ Part 2 should be implemented against this plan. Any endpoint, field or relations
 
 ## CI/CD
 
-The `.github/workflows/part1-validation.yml` workflow checks that the required Part 1 files exist in the repository.
+The `https://github.com/Tjikana23-MK/part1-validation.yml` workflow checks that the required Part 1 files exist in the repository.
 
 Before submission, run the workflow through GitHub Actions and place a screenshot of the successful green build in this README.
 
@@ -58,7 +58,7 @@ Before submission, run the workflow through GitHub Actions and place a screensho
 
 Add the unlisted YouTube presentation link here after recording:
 
-`[PASTE YOUR UNLISTED YOUTUBE LINK HERE]`
+`youtube link`
 
 The Part 1 video should explain:
 - the purpose of RaceDay;
