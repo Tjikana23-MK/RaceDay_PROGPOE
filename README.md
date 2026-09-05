@@ -58,7 +58,7 @@ Before submission, run the workflow through GitHub Actions and place a screensho
 
 Add the unlisted YouTube presentation link here after recording:
 
-`youtube link`
+`couldnt access my virtual machine to create the video`
 
 The Part 1 video should explain:
 - the purpose of RaceDay;
