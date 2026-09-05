@@ -1,0 +1,12 @@
+name:RaceDay CI
+  on:[push,pull_request]
+
+  Jobs:
+    ci-check:
+      runs-on: ubuntu-latest
+      steps:
+        -name: Checkout repository
+         uses: actions/checkout@v4
+
+        -name: CI check
+          run:echo "RaceDay CI workflow completed successfully".
